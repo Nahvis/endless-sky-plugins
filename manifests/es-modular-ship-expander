@@ -1,0 +1,11 @@
+name: ES Modular Ship Expander
+authors: Nahvis
+homepage: https://github.com/Nahvis/ES-Modular-Ship-Expander/
+license: GPL-3.0-or-later
+version: v0.0.3
+shortDescription: Modular outfits to allow increases to outfit, cargo, bunk, weapon, engine, hull, or shields respectively to an existing ship. Also, Android Outfits.
+description: This is a plugin for the game Endless Sky that adds several Modular Outfits for ships. The outfits allow increases to outfit, cargo, bunk, weapon, engine, hull, or shields respectively to an existing ship. There is also an Android Outfit included. All outfits are balanced in various ways.
+url: https://github.com/Nahvis/ES-Modular-Ship-Expander/archive/refs/tags/v0.0.3.zip
+autoupdate:
+  type: tag
+  url: https://github.com/Nahvis/ES-Modular-Ship-Expander/archive/refs/tags/$version.zip
